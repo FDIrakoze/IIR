@@ -61,3 +61,10 @@ Réference
 |Gender Perspective of Software Engineering Working Climate | Gender Differences in Participation and Reward on Stack Overflow | Gender Differences in Computer Science Students  |
 | Perceptions of Gender Diversity ’s impact on mood in software development teams  | Does gender matter in project results?  | Gender Gap? A Snapshot of a Bachelor Computer Science Course at Graz University of Technology  |  
 | Gender Diversity and Women in Software Teams: How Do They Affect Community Smells?  |Implicit Gender Biases in Professional Software Development: An Empirical Study   | Gender Gap in Academia: Perceptions of Female Computer Science Academics    |
+
+
+### Editing specifications
+
+- use the present
+- define the vocabulary
+- simple phrase (subject + verb + complement) 

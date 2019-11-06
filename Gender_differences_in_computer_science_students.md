@@ -4,6 +4,7 @@
 - `The main objective: identify a profile of women and men who pursue carees in Computer Science`
 
 ***`Noteworthy: men had more confidence in using computers science than did women even when statistically controlling quantitative ability`***
+
 Two reasons for the small number of women in CS are:
 - negative stereotypes regarding the field
 - low confidence
