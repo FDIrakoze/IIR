@@ -109,4 +109,4 @@ The female are more likely to be more communicative and less technical. That is 
 
 ### Imposer behavior
 
-The lack of a sense of belonging and of a positive identiﬁcation with Computer Science also leads to imposter behaviours
+The lack of a sense of belonging and of a positive identiﬁcation with Computer Science also leads to imposter behaviours.
